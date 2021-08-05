@@ -1,4 +1,4 @@
-# Geospatial
+Geospatial
 ==
 The Geospatial project under Antony_project is a project which studies the HDB resale market and after which goes into utilising Heatmap to showcase the no. of resale units in the area. Subsequently the folium map is used as a better alternative to display the grouping of resale units
 Interactive map
