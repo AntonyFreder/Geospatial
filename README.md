@@ -1,6 +1,7 @@
 Geospatial
 ==
 The Geospatial project under the HDB_resale_folium is a project which studies the HDB resale market and after which goes into utilising folium to showcase the no. of resale units in the area
+==
 Interactive map
 ==
 ***
